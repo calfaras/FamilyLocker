@@ -1,0 +1,27 @@
+
+{
+  "short_name": "FamilyLocker",
+  "name": "Family Locker",
+  "description": "Financial & Household Legacy Planner",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1160/1160358.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1160/1160358.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc",
+  "categories": ["finance", "productivity", "utilities"]
+}
